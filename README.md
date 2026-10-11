@@ -1,28 +1,28 @@
 <div align="center">
 
-<!-- Ultra-Premium Hero Section: Obsidian & Electric Blue -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,100:00C8FF&height=320&section=header&text=C%20A%20R%20E%20E%20R%20%20❖%20%20C%20A%20T%20A%20L%20Y%20S%20T&fontSize=60&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20ULTIMATE%20JOB%20APPLICATION%20EMAIL%20TEMPLATE&descAlignY=58&descAlign=50" width="100%" />
+<!-- Ultra-Premium Hero Section: Obsidian Onyx & Emerald Green -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:00FA9A&height=340&section=header&text=E%20X%20E%20C%20U%20T%20I%20V%20E%20%20❖%20%20O%20U%20T%20R%20E%20A%20C%20H&fontSize=55&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=THE%20HIGH-CONVERSION%20APPLICATION%20FRAMEWORK&descAlignY=60&descAlign=50" width="100%" />
 
-<!-- Minimalist Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Bypass+the+Recruiter+Spam+Filter;Project+Absolute+Professionalism;Plug-and-Play+Email+Architecture;Land+Your+Dream+Role+Today&center=true&width=800&height=60&color=00C8FF&vCenter=true&size=20&font=Montserrat&weight=600" />
+<!-- Minimalist Typing Animation (Montserrat Font for a sharp, corporate feel) -->
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Bypass+the+Recruiter's+Spam+Filter;Project+Absolute+Authority+%26+Professionalism;Plug-and-Play+Email+Architecture;Secure+the+Interview.+Land+the+Role.&center=true&width=800&height=70&color=00FA9A&vCenter=true&size=21&font=Montserrat&weight=600" />
 
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AUTHOR-Aditya%20Naik-0B0F19?style=for-the-badge&logo=github&logoColor=00C8FF" alt="Author">
-  <img src="https://img.shields.io/badge/FORMAT-PDF_Document-0B0F19?style=for-the-badge&logo=adobeacrobatreader&logoColor=00C8FF" alt="Format">
-  <img src="https://img.shields.io/badge/FOCUS-Career_Growth-00C8FF?style=for-the-badge&logo=linkedin&logoColor=0B0F19" alt="Focus">
+  <img src="https://img.shields.io/badge/ARCHITECT-Aditya%20Naik-050505?style=for-the-badge&logo=github&logoColor=00FA9A" alt="Author">
+  <img src="https://img.shields.io/badge/ASSET_TYPE-PDF_Document-050505?style=for-the-badge&logo=adobeacrobatreader&logoColor=00FA9A" alt="Format">
+  <img src="https://img.shields.io/badge/SUCCESS_RATE-Optimized-00FA9A?style=for-the-badge&logo=rocket&logoColor=050505" alt="Success">
 </p>
 
 <br>
 
 <a href="./Job-Application-Email-Template.pdf">
-  <img src="https://img.shields.io/badge/▨_INITIALIZE_PROTOCOL-ACCESS_THE_EMAIL_TEMPLATE-0B0F19?style=for-the-badge&logo=maildotru&logoColor=00C8FF" alt="Read PDF" width="500">
+  <img src="https://img.shields.io/badge/▨_ACCESS_THE_FRAMEWORK-DOWNLOAD_EMAIL_TEMPLATE-050505?style=for-the-badge&logo=maildotru&logoColor=00FA9A" alt="Read PDF" width="550">
 </a>
 
 <br><br>
 
-> ⚠️ **STRATEGIC DIRECTIVE:** *First impressions are irreversible. This repository provides a battle-tested, highly-converting email architecture engineered to capture recruiter attention, project absolute professionalism, and secure your next interview.*
+> 🛡️ **STRATEGIC DIRECTIVE:** *First impressions are irreversible. In a hyper-competitive job market, your email is your first interview. This repository provides a battle-tested, psychologically optimized email architecture engineered to capture recruiter attention and secure your next role.*
 
 </div>
 
@@ -32,9 +32,9 @@
 
 <br>
 
-<h2 align="center">✦ 𝗖 𝗢 𝗥 𝗘 &nbsp; 𝗙 𝗘 𝗔 𝗧 𝗨 𝗥 𝗘 𝗦 ✦</h2>
+<h2 align="center">✦ 𝗔 𝗥 𝗖 𝗛 𝗜 𝗧 𝗘 𝗖 𝗧 𝗨 𝗥 𝗔 𝗟 &nbsp; 𝗔 𝗗 𝗩 𝗔 𝗡 𝗧 𝗔 𝗚 𝗘 𝗦 ✦</h2>
 
-<p align="center"><i>Engineered for maximum readability and recruiter impact.</i></p>
+<p align="center"><i>Why this template outperforms standard application emails.</i></p>
 
 <br>
 
@@ -42,21 +42,21 @@
   <tr>
     <td width="33%" align="center" valign="top">
       <br>
-      <img src="https://img.icons8.com/ios-filled/64/00C8FF/briefcase.png" width="48"/><br>
-      <h3>Executive Structure</h3>
-      <p align="center">A meticulously formatted layout that adheres to top-tier corporate communication standards.</p>
+      <img src="https://img.icons8.com/ios-filled/64/00FA9A/conference-call.png" width="50"/><br>
+      <h3>Executive Formatting</h3>
+      <p align="center">A meticulously structured layout that strictly adheres to top-tier corporate communication standards.</p>
     </td>
     <td width="33%" align="center" valign="top">
       <br>
-      <img src="https://img.icons8.com/ios-filled/64/00C8FF/edit.png" width="48"/><br>
-      <h3>Plug & Play</h3>
-      <p align="center">Highly modular placeholders allow you to inject your specific skills, portfolio, and experience instantly.</p>
+      <img src="https://img.icons8.com/ios-filled/64/00FA9A/module.png" width="50"/><br>
+      <h3>Plug & Play Modularity</h3>
+      <p align="center">Bracketed variables allow you to inject your specific skills, portfolio, and experience in seconds.</p>
     </td>
     <td width="33%" align="center" valign="top">
       <br>
-      <img src="https://img.icons8.com/ios-filled/64/00C8FF/reviewer-female.png" width="48"/><br>
+      <img src="https://img.icons8.com/ios-filled/64/00FA9A/reviewer-female.png" width="50"/><br>
       <h3>Recruiter Optimized</h3>
-      <p align="center">Concise, impactful wording designed to bypass generic filters and respect the hiring manager's time.</p>
+      <p align="center">High signal-to-noise ratio. Concise wording designed to bypass filters and respect the hiring manager's time.</p>
     </td>
   </tr>
 </table>
@@ -70,9 +70,12 @@
 <h2 align="center">✦ 𝗧 𝗔 𝗥 𝗚 𝗘 𝗧 &nbsp; 𝗗 𝗘 𝗠 𝗢 𝗚 𝗥 𝗔 𝗣 𝗛 𝗜 𝗖 ✦</h2>
 
 <div align="center">
-
-`< University Students >` ➔ `< Fresh Graduates >` ➔ `< Internship Seekers >`<br>
-`< Entry-Level Devs >` ➔ `< Career Transitioners >`
+  
+<img src="https://img.shields.io/badge/01-University_Students-050505?style=for-the-badge&logoColor=00FA9A" /> 
+<img src="https://img.shields.io/badge/02-Fresh_Graduates-050505?style=for-the-badge&logoColor=00FA9A" /> 
+<img src="https://img.shields.io/badge/03-Internship_Seekers-050505?style=for-the-badge&logoColor=00FA9A" /><br><br>
+<img src="https://img.shields.io/badge/04-Entry_Level_Engineers-050505?style=for-the-badge&logoColor=00FA9A" />
+<img src="https://img.shields.io/badge/05-Career_Transitioners-050505?style=for-the-badge&logoColor=00FA9A" />
 
 </div>
 
@@ -82,51 +85,51 @@
 
 <br>
 
-<h2 align="center">✦ 𝗘 𝗫 𝗘 𝗖 𝗨 𝗧 𝗜 𝗢 𝗡 &nbsp; 𝗣 𝗜 𝗣 𝗘 𝗟 𝗜 𝗡 𝗘 ✦</h2>
+<h2 align="center">✦ 𝗗 𝗘 𝗣 𝗟 𝗢 𝗬 𝗠 𝗘 𝗡 𝗧 &nbsp; 𝗣 𝗥 𝗢 𝗧 𝗢 𝗖 𝗢 𝗟 ✦</h2>
 
-<p align="center"><i>Deploy this template in 5 simple steps.</i></p>
+<p align="center"><i>Execute these 5 steps to finalize your outreach.</i></p>
 
 <br>
 
-<table align="center" width="85%">
+<table align="center" width="90%">
   <tr>
     <td width="15%" align="center">
-      <img src="https://img.shields.io/badge/STEP_01-0B0F19?style=for-the-badge&logoColor=00C8FF" />
+      <img src="https://img.shields.io/badge/PHASE_01-050505?style=for-the-badge&logoColor=00FA9A" />
     </td>
     <td width="85%">
-      <b>Extract the Payload:</b> Open or download the <code>Job-Application-Email-Template.pdf</code> from this repository.
+      <b>Extract Payload:</b> Open or download the <code>Job-Application-Email-Template.pdf</code> from the repository above.
     </td>
   </tr>
   <tr>
     <td width="15%" align="center">
-      <img src="https://img.shields.io/badge/STEP_02-0B0F19?style=for-the-badge&logoColor=00C8FF" />
+      <img src="https://img.shields.io/badge/PHASE_02-050505?style=for-the-badge&logoColor=00FA9A" />
     </td>
     <td width="85%">
-      <b>Duplicate Architecture:</b> Copy the raw email format directly into your preferred email client (Gmail, Outlook, etc.).
+      <b>Clone Architecture:</b> Copy the raw email framework directly into your preferred email client (Gmail, Outlook, etc.).
     </td>
   </tr>
   <tr>
     <td width="15%" align="center">
-      <img src="https://img.shields.io/badge/STEP_03-0B0F19?style=for-the-badge&logoColor=00C8FF" />
+      <img src="https://img.shields.io/badge/PHASE_03-050505?style=for-the-badge&logoColor=00FA9A" />
     </td>
     <td width="85%">
-      <b>Inject Data:</b> Replace all bracketed placeholder text (e.g., <code>[Company Name]</code>, <code>[Job Title]</code>) with your specific credentials.
+      <b>Inject Data Variables:</b> Replace all bracketed text placeholders (e.g., <code>[Company Name]</code>, <code>[Job Title]</code>) with your exact credentials.
     </td>
   </tr>
   <tr>
     <td width="15%" align="center">
-      <img src="https://img.shields.io/badge/STEP_04-0B0F19?style=for-the-badge&logoColor=00C8FF" />
+      <img src="https://img.shields.io/badge/PHASE_04-050505?style=for-the-badge&logoColor=00FA9A" />
     </td>
     <td width="85%">
-      <b>Attach Assets:</b> Ensure your highly-polished Resume/CV and Portfolio links are firmly attached or hyperlinked.
+      <b>Attach Assets:</b> Ensure your highly-polished Resume/CV and Portfolio links are securely attached and functioning.
     </td>
   </tr>
   <tr>
     <td width="15%" align="center">
-      <img src="https://img.shields.io/badge/STEP_05-00C8FF?style=for-the-badge&logoColor=0B0F19" />
+      <img src="https://img.shields.io/badge/PHASE_05-00FA9A?style=for-the-badge&logoColor=050505" />
     </td>
     <td width="85%">
-      <b>Deploy:</b> Do a final proofread for formatting consistency, take a breath, and hit send.
+      <b>Execute:</b> Perform a final visual check for formatting consistency, take a breath, and hit send.
     </td>
   </tr>
 </table>
@@ -137,10 +140,10 @@
 
 <!-- Ultra-Premium Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C8FF,100:0B0F19&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FA9A,100:050505&height=120&section=footer" width="100%" />
   <br>
   <code>&lt; Draft /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Send /&gt;</code> &nbsp;❖&nbsp; <code>&lt; Get Hired /&gt;</code>
   <br><br>
-  <b>Architected by <a href="https://github.com/Adityanaik1818">Aditya Prakash Naik</a></b><br>
-  <i>Empowering the next generation of professionals.</i>
+  <b>Engineered by <a href="https://github.com/Adityanaik1818">Aditya Prakash Naik</a></b><br>
+  <i>Empowering the next generation of industry leaders.</i>
 </div>
